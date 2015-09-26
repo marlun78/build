@@ -1,2 +1,2 @@
 # build
-Gulp, Bable (ES2015), Browserify, Angular and SystemJS
+Gulp, Babel (ES2015), Browserify, Angular and SystemJS
